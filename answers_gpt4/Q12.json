@@ -1,0 +1,9 @@
+{
+  "question": "問12 デジタル証明書が失効しているかどうかをオンラインで確認するためのプロトコル \nはどれか。 \nア CHAP \nイ LDAP \nウ OCSP \nエ SNMP\n",
+  "answer": "回答: ウ\n解説: OCSP（Online Certificate Status Protocol）は、デジタル証明書の失効状態をオンラインで確認するためのプロトコルです。これにより、証明書の発行者が提供する失効リスト（CRL）をダウンロードすることなく、リアルタイムで証明書の失効状態を確認することができます。",
+  "usage": {
+    "prompt_tokens": 305,
+    "completion_tokens": 134,
+    "total_tokens": 439
+  }
+}

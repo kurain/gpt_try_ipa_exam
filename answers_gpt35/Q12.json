@@ -1,0 +1,9 @@
+{
+  "question": "問12 デジタル証明書が失効しているかどうかをオンラインで確認するためのプロトコル \nはどれか。 \nア CHAP \nイ LDAP \nウ OCSP \nエ SNMP\n",
+  "answer": "回答: ウ\n解説: デジタル証明書が失効しているかどうかをオンラインで確認するためのプロトコルはOCSP(Online Certificate Status Protocol)です。CHAP(Challenge-Handshake Authentication Protocol)は認証プロトコル、LDAP(Lightweight Directory Access Protocol)はディレクトリサービスにアクセスするためのプロトコル、SNMP(Simple Network Management Protocol)はネットワーク機器の監視・管理に使用されるプロトコルです。",
+  "usage": {
+    "prompt_tokens": 307,
+    "completion_tokens": 155,
+    "total_tokens": 462
+  }
+}
