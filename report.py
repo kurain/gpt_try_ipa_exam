@@ -74,7 +74,7 @@ text = f"""
 | --- | --- | --- | --- |
 """
 for i, a in enumerate(result['answers']):
-    text += f"|{i}|{a['correct']}|{a['answer']}|{a['check']}|\n"
+    text += f"|{i+1}|{a['correct']}|{a['answer']}|{a['check']}|\n"
 print(text)
 
 for i, part in enumerate(answers):
